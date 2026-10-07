@@ -4,4 +4,4 @@ def add(a, b):
 
 def average(numbers):
     # 平均を返す
-    return sum(numbers) // len(numbers)
+    return sum(numbers) / len(numbers)
